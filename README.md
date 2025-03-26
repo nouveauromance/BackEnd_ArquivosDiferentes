@@ -38,7 +38,7 @@ com a quantidade de reais (entrada);
 
 ## Instalação/Requisitos
 
-📌Instale clonando o repositório
+📌 Instale clonando o repositório
 
 ⚠️ É necessário ter:
 - Node.js instalado
