@@ -36,6 +36,10 @@ http://localhost:4800
 /dolar -> Recebe o valor em reais 'r', o valor do dólar 'd' e devolve quantos dólares podem ser comprado 
 com a quantidade de reais (entrada);
 
+### Dia 02/04:
+
+✨ Implementar um SpringInitializr (imc) no projeto.
+
 ## Instalação/Requisitos
 
 📌 Instale clonando o repositório
